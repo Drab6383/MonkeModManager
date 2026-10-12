@@ -1,4 +1,4 @@
-#Monke Mod Manager
+# Monke Mod Manager
 
 <img width="565" height="401" alt="image" src="https://github.com/user-attachments/assets/4c3d092b-b78b-4b35-a2bf-65d5d50d8ba3" />
 
@@ -7,7 +7,7 @@ This program will install custom mods into Gorilla Tag automatically, and can be
 
 This uses the github api to get the latest release of all these mods, so you know you'll always be getting the latest version! (If there is a mod that you have made that you want added to MMM, send me a message or ping us somewhere on Discord! ngbatzyt)
 
-#To have your mod added
+# To have your mod added
 DM me:
 
 The Github repository of the mod you want added
